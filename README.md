@@ -44,5 +44,5 @@ To explore the relationship between financial news headlines and stock market mo
 Revealed that the dataset’s scope and relevance were insufficient for reliably predicting stock market trends. Provided recommendations for enhancing dataset quality for future studies.
 
 ## Additional Details
-- [Full Report](https://github.com/saifullah-s/headlines-stock-trend/blob/main/report/headlines_stock_trend.pdf)
+- [Full Report](https://drive.google.com/file/d/1ZVjdSj-eas66aoXTC2nfnZLVbRHBB8jh/view?usp=drive_link)
 - [Interactive Colab Notebook](https://colab.research.google.com/drive/1csF-R6GsXo5oc8ChU33RyVfk_W8a4Kpo?usp=drive_link)
