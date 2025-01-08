@@ -9,6 +9,15 @@
 **Dr. Beibei Cheng**  
 Applied Scientist at Microsoft
 
+## Summary
+-	Designed a machine learning system to predict stock market trends based on the sentiment and context of daily news headlines using advanced Natural Language Processing (NLP) techniques.
+-	Implemented feature extraction techniques such as Bag-of-Words (BoW), TF-IDF, and GloVe embeddings for effective representation of textual data.
+-	Employed DistilRoBERTa (LLM from Hugging Face) for zero-shot classification.
+-	Built and trained a custom LSTM model using TensorFlow, using deep learning methods for trend prediction.
+-	Evaluated models' performance using metrics including accuracy, precision, recall, and F1-score, uncovering dataset limitations that impacted prediction reliability.
+-	Conducted critical analysis and provided recommendations for improving dataset scope and quality.
+-	Used frameworks such as Transformers (Hugging Face), Scikit-learn, NLTK, Gensim, and Pandas.
+
 ## Description
 A machine learning project utilizing Natural Language Processing (NLP) techniques to predict stock market trends (up/down) based on the sentiment and context of daily news headlines. The project used classical NLP methods like Bag-of-Words (BoW) and TF-IDF, as well as advanced techniques like GloVe embeddings and the DistilRoBERTa large language model (from Hugging Face's Transformers library) for zero-shot classification.
 
